@@ -1,5 +1,5 @@
 Yolov5 model used created by zymk9 can be found here https://github.com/zymk9/yolov5_anime
 
-Picture 1 used for comparison:
+Picture 1 used for comparison: test_priconne.png, credits to CyGames.
 
-Picture 2 used for comparison:
+Picture 2 used for comparison: test_uma.png, credits to CyGames.
